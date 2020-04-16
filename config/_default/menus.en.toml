@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "about"
+  name = "關於我"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "文章"
+  url = "posts"
+  weight = 2
+
+[[main]]
+  identifier = "archive"
+  name = "時間軸"
+  url = "archive"
+  weight = 3
