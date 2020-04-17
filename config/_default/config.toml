@@ -1,5 +1,5 @@
-baseURL = "https://stanley.github.io/"
-title = "Stanley'sconfig Blog"
+baseURL = "https://stanley98745.github.io/"
+title = "Stanley's Blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"

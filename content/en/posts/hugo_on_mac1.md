@@ -73,3 +73,16 @@ hugo serve
 因此我把 _zzo theme_ 的 **_config.toml_** 修改放在下一篇，這樣文章內容會比較一致。
 
 其他主題則需要看一下作者github的 **_README_** ，千萬要多小心哦。
+
+### 發表文章
+在 **blog/content** 資料夾底下應該可以找到post資料夾，有的還會放在更深的一層，像是zzo的主題就放在 **content/en** 資料夾底下。如果想要發表文章，只需要
+
+```bash
+hugo new posts/your-post.md
+```
+
+大致上就是這樣子囉！
+
+
+下一篇連結在此
+[使用Hugo建立網站(MAC) (II)](https://stanley98745.github.io/posts/hugo_on_mac2/)

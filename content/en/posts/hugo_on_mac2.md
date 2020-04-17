@@ -22,6 +22,8 @@ image: images/feature2/bam.png
 ---
 
 ### 前言
+[使用Hugo建立網站(MAC) (I)](https://stanley98745.github.io/posts/hugo_on_mac1/)
+
 > _本篇是介紹zzo這個主題_
 > [zzo hugo theme](https://themes.gohugo.io/hugo-theme-zzo/)
 > [zzo github](https://github.com/zzossig/hugo-theme-zzo)
@@ -399,3 +401,7 @@ total views與total vistors，會在page最下方顯示。
 
 
 基本上大致會修改的地方就是這兩個資料夾了。下一篇我們將介紹如何把網站丟到github上並且發布。
+
+
+下一篇連結在此
+[使用Hugo建立網站(MAC) (III)](https://stanley98745.github.io/posts/hugo_on_mac3/)
