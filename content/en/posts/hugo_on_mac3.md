@@ -72,7 +72,7 @@ git push -u origin master
 基本上只有修改成website-hugo，其他都大同小異。
 
 ```bash
-cd public
+cd ..
 git init
 git remote add origin https://github.com/username/website-hugo.github.io.git
 git add .
@@ -84,6 +84,17 @@ git push -u origin master
 然後等待個幾分鐘，你的 **_https://username.github.io_** 就出現囉!
 
 ### 更新網站
+假設你有新的貼文想要上傳，那進到你的 _newsite_ 資料夾底下，在終端機執行以下指令
+
+```bash
+hugo
+cd public
+git add .
+git commit -m "NEW POST"
+git push origin master
+```
+
+那麼這樣就可以發表新的文章囉!
 
 使用Hugo建立網站(MAC)的系列文就到這邊啦!
 

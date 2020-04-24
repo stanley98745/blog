@@ -84,5 +84,5 @@ hugo new posts/your-post.md
 大致上就是這樣子囉！
 
 
-下一篇連結在此
+**下一篇連結在此**
 [使用Hugo建立網站(MAC) (II)](https://stanley98745.github.io/posts/hugo_on_mac2/)

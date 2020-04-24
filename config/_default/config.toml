@@ -9,14 +9,14 @@ hasCJKLanguage = true
 summaryLength = 70
 buildFuture = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, All Rights Reserved."
 timeout = 10000
 enableEmoji = true
 paginate = 10
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-163676818-1"
 
 [markup]
   [markup.goldmark]
