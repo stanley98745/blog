@@ -16,6 +16,7 @@ categories:
 - Deep Learning
 libraries:
 - katex
+image: images/feature2/mathbook.png
 ---
 
 ### 前言
