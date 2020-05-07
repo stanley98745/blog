@@ -1,7 +1,7 @@
 ---
 title: "CS231_n Image Classification - part1"
 date: 2020-05-05T12:00:00+08:00
-description: "LeetCode Solving"
+description: "CNN Learning"
 draft: false
 hideToc: false
 enableToc: true
@@ -16,10 +16,11 @@ tags:
 - Deep learning
 series:
 - cs231_n
+- Deep Learning
 categories:
 - cs231_n
 - CNN
-- DeepLearning
+- Deep Learning
 image: images/feature2/mathbook.png
 ---
 

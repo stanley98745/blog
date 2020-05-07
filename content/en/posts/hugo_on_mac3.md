@@ -11,9 +11,6 @@ authorEmoji: 🎅
 tags:
 - hugo
 - osx
-- mac
-- github.io
-- website
 series:
 - hugo_on_mac
 categories:
